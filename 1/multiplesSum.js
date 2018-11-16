@@ -14,3 +14,5 @@ while (n--) {
 }
 
 console.log(multiples.reduce((accum, curVal) => accum + curVal, 0));
+
+doSomething = (value) => value + 1
